@@ -1,0 +1,49 @@
+/* block-events.css */
+
+.schedule-control-section {
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.control-section {
+    display: flex;
+    justify-content: center;
+}
+
+.control-wrapper {
+    width: 100%;
+}
+
+.schedule-container {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.template-wrap {
+    display: flex;
+    align-items: center;
+}
+
+.employee-category {
+    display: flex;
+    align-items: center;
+}
+
+.employee-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    margin-right: 10px;
+}
+
+.employee-name {
+    font-weight: bold;
+}
+
+.employee-designation {
+    color: #888;
+    font-size: 0.9em;
+}
